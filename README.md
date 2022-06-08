@@ -1,5 +1,11 @@
 # Frontend Mentor - QR code component
 
+
+https://enzomf.github.io/Qr_code_chalenge/
+
+
+
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
